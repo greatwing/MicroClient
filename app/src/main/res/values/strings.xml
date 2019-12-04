@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">微端</string>
+    <string name="clientaddr">http://debugtbs.qq.com</string>
+</resources>
